@@ -1,10 +1,10 @@
 import Head from 'next/head'
 import styles from '@/styles/Home.module.css'
 
-import {getSiteInfo} from 'site-info';
+// import {getSiteInfo} from 'site-info';
 
 export default function Home() {
-  let siteInfo = getSiteInfo();
+  // let siteInfo = getSiteInfo();
 
   return (
     <div className={styles.container}>

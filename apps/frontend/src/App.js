@@ -5,7 +5,7 @@ import './App.css';
 
 export default function App() {
   //Define a variable to get the values
-  let siteInfo = getSiteInfo();
+  // let siteInfo = getSiteInfo();
   return (
     <div className="App">
       {/*Output the site title and subtitle to the screen*/}
